@@ -6,6 +6,7 @@ nav{
     background-color: #333;
 }
 .nav-item{
+    display: inline-block;
     list-style-type: none;
     color: white;
     text-align: center;
