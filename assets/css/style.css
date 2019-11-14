@@ -1,16 +1,30 @@
-nav{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-.nav-item{
-    display: inline-block;
-    list-style-type: none;
+.nav-bar {
+    display: block;
+  list-style-type: none;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0;
+  min-width: 450px;
+    
+  }
+  
+  #nav-name a {
+    display: block;
+    background-color: #4aaaa5;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    float: right;
+    float: left;
+    
 }
+
+  .nav-item a {
+    display: block;
+    color: #4aaaa5;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+
+  }
