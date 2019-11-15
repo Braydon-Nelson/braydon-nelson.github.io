@@ -1,18 +1,25 @@
-.nav-bar {
-    display: block;
-  list-style-type: none;
+nav{
   text-align: center;
-  margin: 0 auto;
+  border-bottom: solid;
+  width:103%;
+  margin-left:-10px;
+  
+}
+
+.nav-bar {
+  display: inline-block;
+  list-style-type: none;
+  width: 960px;
   padding: 0;
-  min-width: 450px;
-    
+  text-align: center;
+  
   }
   
   #nav-name a {
     display: block;
     background-color: #4aaaa5;
     color: white;
-    text-align: center;
+    /* text-align: center; */
     padding: 14px 16px;
     text-decoration: none;
     float: left;
@@ -22,7 +29,7 @@
   .nav-item a {
     display: block;
     color: #4aaaa5;
-    text-align: center;
+    /* text-align: center; */
     padding: 14px 16px;
     text-decoration: none;
     float: right;
