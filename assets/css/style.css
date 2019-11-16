@@ -53,9 +53,9 @@
 
     .container {
         width: 960px;
-        margin: 100px;
+        margin-top: 100px;
+        margin-bottom: 100px;
         margin-left: 20%;
-        margin-right: 20%;
         height: auto;
         background-color: #ffffff;
         color: #777777;
@@ -81,22 +81,13 @@
         border-top: 8px solid #4aaaa5;
         border-color: #cccccc;
         color: #ffffff;
-        margin-left: 0px;
-        margin-right: 0px;
-        margin-bottom: -10px;
+        margin-top: 10px;
         background-color: #666666;
         height: 40px;
-        float: left;
-        position: sticky;
-    }
-
-    .footer {
-        padding-top: 40px;
-        margin: 0%;
-        margin-bottom: 0px;
-        float: left;
-        position: sticky;
         width: 100%;
+        padding-top: 40px;
+        position: sticky;
+        display: inline-block;
     }
 
     textarea {
