@@ -1,16 +1,16 @@
     nav {
         text-align: center;
         border-bottom: solid;
-        border-width: 1px;
+        border-color: #cccccc;
         margin-left: -8px;
         margin-right: -8px;
-        background-color: white;
+        background-color: #ffffff;
         margin-top: -10px;
         height: 96px;
     }
     
     body {
-        background-color: darkgoldenrod;
+        background-image: url(/assets/images/triangle-mosaic.png);
         font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     }
     
@@ -28,7 +28,7 @@
     #nav-name a {
         display: block;
         background-color: #4aaaa5;
-        color: white;
+        color: #ffffff;
         /* text-align: center; */
         padding: 30px 16px;
         /* margin-top: 5px; */
@@ -61,8 +61,11 @@
         margin-left: auto;
         margin-right: auto;
         height: auto;
-        background-color: white;
+        background-color: #ffffff;
+        color: #777777;
         padding: 20px;
+        border: solid;
+        border-color: #dddddd;
     }
     
     #bio-img {
@@ -73,4 +76,17 @@
     
     h1 {
         font-family: 'Georgia', Times, 'Times New Roman', serif;
+    }
+    
+    footer {
+        text-align: center;
+        border-top: 8px solid #4aaaa5;
+        border-color: #cccccc;
+        color: #ffffff;
+        margin-left: -8px;
+        margin-right: -8px;
+        background-color: #666666;
+        margin-bottom: -50px;
+        height: 70px;
+        padding-top: 40px;
     }
