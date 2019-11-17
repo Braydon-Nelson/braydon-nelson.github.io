@@ -92,7 +92,7 @@
 
     textarea {
         height: 30px;
-        width: 70%;
+        width: 100%;
     }
 
     #messageBox {
@@ -101,14 +101,39 @@
     }
 
     #submitBtn {
-        float: right;
+        float: left;
         background-color: #4aaaa5;
-        height: 20px;
+        height: 40px;
+        width: 80px;
+        color: #ffffff;
     }
 
     .item {
         display: inline-block;
-        width: 49%;
-        margin-top: 30px;
+        width: 200px;
+        height: 200px;
+        margin: 30px;
         border: solid;
+        border-color: #dddddd;
     }
+
+    .item-id {
+        z-index: 1;
+        margin: 0 auto;
+        /* position: ; */
+        left: 0;
+        right: 0;
+        top: 30%;
+        /* Adjust this value to move the positioned div up and down */
+        text-align: center;
+        width: 60%;
+    }
+
+    .center-item {
+        text-align: center;
+    }
+
+    /* .item-img {
+        float: left;
+        margin: 5px;
+    } */
