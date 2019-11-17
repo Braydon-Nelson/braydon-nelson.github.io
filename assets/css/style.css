@@ -120,11 +120,9 @@
     .item-id {
         z-index: 1;
         margin: 0 auto;
-        /* position: ; */
         left: 0;
         right: 0;
         top: 30%;
-        /* Adjust this value to move the positioned div up and down */
         text-align: center;
         width: 60%;
     }
@@ -132,8 +130,3 @@
     .center-item {
         text-align: center;
     }
-
-    /* .item-img {
-        float: left;
-        margin: 5px;
-    } */
