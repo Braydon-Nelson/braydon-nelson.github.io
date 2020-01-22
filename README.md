@@ -1,6 +1,6 @@
 # 02-Responsive-Portfolio Homeowrk
 
-This is a homework project to make a responsive portfolio using bootstrap.
+This is a homework project to make a portfolio using my skills I have learned.
 
 ## Authors
 
@@ -12,11 +12,11 @@ This is a homework project to make a responsive portfolio using bootstrap.
 ![Image of About Page](assets/images/about-page.jpg)
 This page would hold a basic info about me and some event on the side possibly.
 
-### About Me Page
+### Portfolio Page
 ![Image of About Page](assets/images/portfolio-page.jpg)
 This page would hold all of my projects that are public.
 
-### About Me Page
+### Contact Page
 ![Image of About Page](assets/images/contact-page.jpg)
 This page would hold a form that someone can fillout to get in touch with me.
 
