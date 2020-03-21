@@ -1,4 +1,4 @@
-# 02-Responsive-Portfolio Homeowrk
+# Portfolio
 
 This is a homework project to make a portfolio using my skills I have learned.
 
@@ -22,4 +22,4 @@ This page contains a form that someone can fillout to get in touch with me.
 
 ## Deployed Application Link
 
-https://braydon-nelson.github.io/02-Responsive-Portfolio/
+https://braydon-nelson.github.io/
